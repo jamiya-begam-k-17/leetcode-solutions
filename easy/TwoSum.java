@@ -14,15 +14,12 @@ public class TwoSum {
     }
 
     public static void main(String[] args) {
-        // Sample input
         int[] nums = {2, 7, 11, 15};
         int target = 9;
 
-        // Create object of Solution class to call twoSum()
         TwoSum sol = new TwoSum();
         int[] result = sol.twoSum(nums, target);
 
-        // Print the result
         System.out.println("Indexes: " + Arrays.toString(result));
     }
 }
