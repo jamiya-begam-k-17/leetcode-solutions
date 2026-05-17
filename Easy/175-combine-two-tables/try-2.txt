@@ -1,0 +1,12 @@
+/*
+ * Problem #175: Combine Two Tables
+ * Difficulty: Easy
+ * Submission: Try 2
+ * status: Accepted
+ * Language: postgresql
+ * Date: 12/4/2025, 9:59:20 AM
+ * Link: https://leetcode.com/problems/combine-two-tables/
+ */
+
+-- Write your PostgreSQL query statement below
+select firstName, lastName, city, a.state from Person p left join Address a on p.personId=a.personId;
