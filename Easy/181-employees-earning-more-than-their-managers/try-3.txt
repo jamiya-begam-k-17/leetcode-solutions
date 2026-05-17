@@ -1,0 +1,18 @@
+/*
+ * Problem #181: Employees Earning More Than Their Managers
+ * Difficulty: Easy
+ * Submission: Try 3
+ * status: Accepted
+ * Language: pythondata
+ * Date: 12/4/2025, 10:31:23 AM
+ * Link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
+ */
+
+import pandas as pd
+
+def find_employees(employee: pd.DataFrame) -> pd.DataFrame:
+    merged = employee.merge(employee, left_on="managerId", right_on="id", suffixes=("_emp","_mgr"))
+
+    res = merged[merged["salary_emp"]>merged["salary_mgr"]]
+
+    return res[["name_emp"]].rename(columns={"name_emp":"Employee"})
