@@ -1,0 +1,15 @@
+/*
+ * Problem #182: Duplicate Emails
+ * Difficulty: Easy
+ * Submission: Try 2
+ * status: Accepted
+ * Language: mysql
+ * Date: 5/26/2026, 12:54:02 PM
+ * Link: https://leetcode.com/problems/duplicate-emails/
+ */
+
+# Write your MySQL query statement below
+select Email 
+from Person 
+group by email 
+having count(id)>1;
