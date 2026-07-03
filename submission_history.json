@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "2052636265",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782926258000,
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix"
+  },
+  {
+    "id": "2052587243",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782923783000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "2031328500",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781323403000,
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray"
+  },
+  {
+    "id": "2030954222",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781278699000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "2030948871",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1781278319000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "2024966947",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780805358000,
+    "title": "Create Binary Tree From Descriptions",
+    "titleSlug": "create-binary-tree-from-descriptions"
+  },
+  {
+    "id": "2024503549",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780761433000,
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences"
+  },
+  {
+    "id": "2023204314",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780657402000,
+    "title": "Total Waviness of Numbers in Range II",
+    "titleSlug": "total-waviness-of-numbers-in-range-ii"
+  },
+  {
+    "id": "2022196832",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780569928000,
+    "title": "Total Waviness of Numbers in Range I",
+    "titleSlug": "total-waviness-of-numbers-in-range-i"
+  },
+  {
+    "id": "2021322837",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780496283000,
+    "title": "Earliest Finish Time for Land and Water Rides II",
+    "titleSlug": "earliest-finish-time-for-land-and-water-rides-ii"
+  },
+  {
+    "id": "2020109675",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780399090000,
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "titleSlug": "earliest-finish-time-for-land-and-water-rides-i"
+  },
+  {
+    "id": "2018807558",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780296256000,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "titleSlug": "minimum-cost-of-buying-candies-with-discount"
+  },
+  {
+    "id": "2014861664",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779906737000,
+    "title": "Count the Number of Special Characters II",
+    "titleSlug": "count-the-number-of-special-characters-ii"
+  },
+  {
+    "id": "2013418826",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779784689000,
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n"
+  },
+  {
+    "id": "2013361259",
+    "lang": "mysql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779780242000,
+    "title": "Duplicate Emails",
+    "titleSlug": "duplicate-emails"
+  },
+  {
+    "id": "2013360210",
+    "lang": "mysql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779780171000,
+    "title": "Duplicate Emails",
+    "titleSlug": "duplicate-emails"
+  },
+  {
+    "id": "2013351781",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779779610000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "2013349223",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779779436000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "2013348494",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779779387000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "2013343502",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779779058000,
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix"
+  },
+  {
+    "id": "2013339304",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779778795000,
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix"
+  },
+  {
+    "id": "2013315339",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779777366000,
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix"
+  },
+  {
+    "id": "2013312176",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779777193000,
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix"
+  },
+  {
+    "id": "2013274414",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779774875000,
+    "title": "Count the Number of Special Characters I",
+    "titleSlug": "count-the-number-of-special-characters-i"
+  },
+  {
+    "id": "2013271332",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779774667000,
+    "title": "Count the Number of Special Characters I",
+    "titleSlug": "count-the-number-of-special-characters-i"
+  },
+  {
+    "id": "2012998295",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779740280000,
+    "title": "Rotate Image",
+    "titleSlug": "rotate-image"
+  },
+  {
+    "id": "2012995669",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779739985000,
+    "title": "Rotate Image",
+    "titleSlug": "rotate-image"
+  },
+  {
+    "id": "2012960627",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779736445000,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "titleSlug": "minimum-moves-to-equal-array-elements-ii"
+  },
+  {
+    "id": "2012960454",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779736432000,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "titleSlug": "minimum-moves-to-equal-array-elements-ii"
+  },
+  {
+    "id": "2012959460",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779736346000,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "titleSlug": "minimum-moves-to-equal-array-elements-ii"
+  },
+  {
+    "id": "2012949524",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779735509000,
+    "title": "Minimum Moves to Equal Array Elements",
+    "titleSlug": "minimum-moves-to-equal-array-elements"
+  },
+  {
+    "id": "2012949097",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779735476000,
+    "title": "Minimum Moves to Equal Array Elements",
+    "titleSlug": "minimum-moves-to-equal-array-elements"
+  },
+  {
+    "id": "2012920974",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779733514000,
+    "title": "Jump Game VII",
+    "titleSlug": "jump-game-vii"
+  },
+  {
+    "id": "2007907939",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779260114000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "2007907809",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779260104000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "2007907454",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779260081000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "2007902746",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779259761000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "2007889457",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779258875000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "2007887601",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779258756000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "2007867014",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779257414000,
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays"
+  },
+  {
+    "id": "2006324983",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779103991000,
+    "title": "Jump Game IV",
+    "titleSlug": "jump-game-iv"
+  },
+  {
+    "id": "2005313338",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1779001376000,
+    "title": "Jump Game III",
+    "titleSlug": "jump-game-iii"
+  },
+  {
+    "id": "2001901595",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1778652667000,
+    "title": "Minimum Moves to Make Array Complementary",
+    "titleSlug": "minimum-moves-to-make-array-complementary"
+  },
+  {
+    "id": "1989890808",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777349285000,
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "titleSlug": "minimum-operations-to-make-a-uni-value-grid"
+  },
+  {
+    "id": "1986901330",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777025675000,
+    "title": "Furthest Point From Origin",
+    "titleSlug": "furthest-point-from-origin"
+  },
+  {
+    "id": "1986211320",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776953457000,
+    "title": "Sum of Distances",
+    "titleSlug": "sum-of-distances"
+  },
+  {
+    "id": "1982842830",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776617315000,
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer"
+  },
+  {
+    "id": "1982840271",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776617149000,
+    "title": "Maximum Distance Between a Pair of Values",
+    "titleSlug": "maximum-distance-between-a-pair-of-values"
+  },
+  {
+    "id": "1981097717",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776443800000,
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "titleSlug": "minimum-absolute-distance-between-mirror-pairs"
+  },
+  {
+    "id": "1981093327",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776443495000,
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "titleSlug": "minimum-absolute-distance-between-mirror-pairs"
+  },
+  {
+    "id": "1978904060",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776232817000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1978903142",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776232756000,
+    "title": "Shortest Distance to Target String in a Circular Array",
+    "titleSlug": "shortest-distance-to-target-string-in-a-circular-array"
+  },
+  {
+    "id": "1978334911",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776176193000,
+    "title": "Minimum Total Distance Traveled",
+    "titleSlug": "minimum-total-distance-traveled"
+  },
+  {
+    "id": "1977580856",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776102155000,
+    "title": "Minimum Distance to the Target Element",
+    "titleSlug": "minimum-distance-to-the-target-element"
+  },
+  {
+    "id": "1971219819",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775539303000,
+    "title": "Maximum Walls Destroyed by Robots",
+    "titleSlug": "maximum-walls-destroyed-by-robots"
+  },
+  {
+    "id": "1971195753",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775537622000,
+    "title": "Walking Robot Simulation II",
+    "titleSlug": "walking-robot-simulation-ii"
+  },
+  {
+    "id": "1961081326",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774630365000,
+    "title": "Matrix Similarity After Cyclic Shifts",
+    "titleSlug": "matrix-similarity-after-cyclic-shifts"
+  },
+  {
+    "id": "1955806692",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774188413000,
+    "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+    "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation"
+  },
+  {
+    "id": "1938953609",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772728513000,
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "titleSlug": "minimum-changes-to-make-alternating-binary-string"
+  },
+  {
+    "id": "1938086693",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772653938000,
+    "title": "Special Positions in a Binary Matrix",
+    "titleSlug": "special-positions-in-a-binary-matrix"
+  },
+  {
+    "id": "1936173511",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772498013000,
+    "title": "Find Kth Bit in Nth Binary String",
+    "titleSlug": "find-kth-bit-in-nth-binary-string"
+  },
+  {
+    "id": "1935181336",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772411811000,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
+  },
+  {
+    "id": "1934628369",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772360562000,
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers"
+  },
+  {
+    "id": "1933950415",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772300212000,
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "titleSlug": "concatenation-of-consecutive-binary-numbers"
+  },
+  {
+    "id": "1932983376",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772212287000,
+    "title": "Minimum Operations to Equalize Binary String",
+    "titleSlug": "minimum-operations-to-equalize-binary-string"
+  },
+  {
+    "id": "1931314877",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772072981000,
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+  },
+  {
+    "id": "1931314369",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772072920000,
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram"
+  },
+  {
+    "id": "1931310330",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772072417000,
+    "title": "Contains Duplicate",
+    "titleSlug": "contains-duplicate"
+  },
+  {
+    "id": "1929673397",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771939896000,
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "titleSlug": "sum-of-root-to-leaf-binary-numbers"
+  },
+  {
+    "id": "1928526709",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771852984000,
+    "title": "Reverse Nodes in k-Group",
+    "titleSlug": "reverse-nodes-in-k-group"
+  },
+  {
+    "id": "1928525905",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771852934000,
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k"
+  },
+  {
+    "id": "1923345686",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771424369000,
+    "title": "Binary Number with Alternating Bits",
+    "titleSlug": "binary-number-with-alternating-bits"
+  },
+  {
+    "id": "1923344928",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771424323000,
+    "title": "Binary Number with Alternating Bits",
+    "titleSlug": "binary-number-with-alternating-bits"
+  },
+  {
+    "id": "1921267144",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771260376000,
+    "title": "Reverse Bits",
+    "titleSlug": "reverse-bits"
+  },
+  {
+    "id": "1921266872",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771260363000,
+    "title": "Reverse Bits",
+    "titleSlug": "reverse-bits"
+  },
+  {
+    "id": "1919868466",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771143919000,
+    "title": "Add Binary",
+    "titleSlug": "add-binary"
+  },
+  {
+    "id": "1919291327",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771092085000,
+    "title": "Champagne Tower",
+    "titleSlug": "champagne-tower"
+  },
+  {
+    "id": "1917508191",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770946917000,
+    "title": "Longest Balanced Substring II",
+    "titleSlug": "longest-balanced-substring-ii"
+  },
+  {
+    "id": "1917134805",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770912620000,
+    "title": "Longest Balanced Substring I",
+    "titleSlug": "longest-balanced-substring-i"
+  },
+  {
+    "id": "1915350797",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770783884000,
+    "title": "Final Prices With a Special Discount in a Shop",
+    "titleSlug": "final-prices-with-a-special-discount-in-a-shop"
+  },
+  {
+    "id": "1915335556",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770782869000,
+    "title": "Longest Balanced Subarray II",
+    "titleSlug": "longest-balanced-subarray-ii"
+  },
+  {
+    "id": "1914159045",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770695622000,
+    "title": "Longest Balanced Subarray I",
+    "titleSlug": "longest-balanced-subarray-i"
+  },
+  {
+    "id": "1913782459",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770658118000,
+    "title": "Balance a Binary Search Tree",
+    "titleSlug": "balance-a-binary-search-tree"
+  },
+  {
+    "id": "1912168412",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770534703000,
+    "title": "Balanced Binary Tree",
+    "titleSlug": "balanced-binary-tree"
+  },
+  {
+    "id": "1911079041",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770453452000,
+    "title": "Minimum Deletions to Make String Balanced",
+    "titleSlug": "minimum-deletions-to-make-string-balanced"
+  },
+  {
+    "id": "1909817407",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770353007000,
+    "title": "Minimum Removals to Balance Array",
+    "titleSlug": "minimum-removals-to-balance-array"
+  },
+  {
+    "id": "1908750007",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770271156000,
+    "title": "Transformed Array",
+    "titleSlug": "transformed-array"
+  },
+  {
+    "id": "1907693917",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770193479000,
+    "title": "Trionic Array II",
+    "titleSlug": "trionic-array-ii"
+  },
+  {
+    "id": "1906873194",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770132690000,
+    "title": "Trionic Array I",
+    "titleSlug": "trionic-array-i"
+  },
+  {
+    "id": "1905644263",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770048190000,
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii"
+  },
+  {
+    "id": "1904495549",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769959918000,
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i"
+  },
+  {
+    "id": "1903164451",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769871652000,
+    "title": "Find Smallest Letter Greater Than Target",
+    "titleSlug": "find-smallest-letter-greater-than-target"
+  },
+  {
+    "id": "1903150643",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769871377000,
+    "title": "Find Smallest Letter Greater Than Target",
+    "titleSlug": "find-smallest-letter-greater-than-target"
+  },
+  {
+    "id": "1901605068",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769748511000,
+    "title": "Minimum Cost to Convert String II",
+    "titleSlug": "minimum-cost-to-convert-string-ii"
+  },
+  {
+    "id": "1901066203",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769700813000,
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome"
+  },
+  {
+    "id": "1901046950",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769699694000,
+    "title": "Majority Element",
+    "titleSlug": "majority-element"
+  },
+  {
+    "id": "1901036620",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769699071000,
+    "title": "Remove Duplicates from Sorted Array II",
+    "titleSlug": "remove-duplicates-from-sorted-array-ii"
+  },
+  {
+    "id": "1901022039",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769698180000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "1901021626",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769698156000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "1901017099",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769697883000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "1901007807",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769697313000,
+    "title": "Remove Element",
+    "titleSlug": "remove-element"
+  },
+  {
+    "id": "1900998373",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769696732000,
+    "title": "Merge Sorted Array",
+    "titleSlug": "merge-sorted-array"
+  },
+  {
+    "id": "1900472631",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769660128000,
+    "title": "Minimum Cost to Convert String I",
+    "titleSlug": "minimum-cost-to-convert-string-i"
+  },
+  {
+    "id": "1892469951",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769018138000,
+    "title": "Construct the Minimum Bitwise Array II",
+    "titleSlug": "construct-the-minimum-bitwise-array-ii"
+  },
+  {
+    "id": "1891212519",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768925697000,
+    "title": "Construct the Minimum Bitwise Array I",
+    "titleSlug": "construct-the-minimum-bitwise-array-i"
+  },
+  {
+    "id": "1889957768",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768833790000,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+  },
+  {
+    "id": "1889921376",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768831729000,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+  },
+  {
+    "id": "1872121007",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767363893000,
+    "title": "N-Repeated Element in Size 2N Array",
+    "titleSlug": "n-repeated-element-in-size-2n-array"
+  },
+  {
+    "id": "1872109124",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767363167000,
+    "title": "N-Repeated Element in Size 2N Array",
+    "titleSlug": "n-repeated-element-in-size-2n-array"
+  },
+  {
+    "id": "1870886339",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767261023000,
+    "title": "Plus One",
+    "titleSlug": "plus-one"
+  },
+  {
+    "id": "1869928320",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767155719000,
+    "title": "Last Day Where You Can Still Cross",
+    "titleSlug": "last-day-where-you-can-still-cross"
+  },
+  {
+    "id": "1869926617",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767155576000,
+    "title": "Magic Squares In Grid",
+    "titleSlug": "magic-squares-in-grid"
+  },
+  {
+    "id": "1868535944",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767021182000,
+    "title": "Pyramid Transition Matrix",
+    "titleSlug": "pyramid-transition-matrix"
+  },
+  {
+    "id": "1867688249",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766937180000,
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "titleSlug": "count-negative-numbers-in-a-sorted-matrix"
+  },
+  {
+    "id": "1866673335",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766842606000,
+    "title": "Meeting Rooms III",
+    "titleSlug": "meeting-rooms-iii"
+  },
+  {
+    "id": "1865892991",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766760164000,
+    "title": "Minimum Penalty for a Shop",
+    "titleSlug": "minimum-penalty-for-a-shop"
+  },
+  {
+    "id": "1865883578",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766759414000,
+    "title": "Maximize Happiness of Selected Children",
+    "titleSlug": "maximize-happiness-of-selected-children"
+  },
+  {
+    "id": "1864179301",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766580176000,
+    "title": "Apple Redistribution into Boxes",
+    "titleSlug": "apple-redistribution-into-boxes"
+  },
+  {
+    "id": "1863508181",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766509551000,
+    "title": "Two Best Non-Overlapping Events",
+    "titleSlug": "two-best-non-overlapping-events"
+  },
+  {
+    "id": "1862580647",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766421282000,
+    "title": "Delete Columns to Make Sorted III",
+    "titleSlug": "delete-columns-to-make-sorted-iii"
+  },
+  {
+    "id": "1861567303",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766323499000,
+    "title": "Delete Columns to Make Sorted II",
+    "titleSlug": "delete-columns-to-make-sorted-ii"
+  },
+  {
+    "id": "1860612738",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766238303000,
+    "title": "Peeking Iterator",
+    "titleSlug": "peeking-iterator"
+  },
+  {
+    "id": "1860591892",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766236480000,
+    "title": "Delete Columns to Make Sorted",
+    "titleSlug": "delete-columns-to-make-sorted"
+  },
+  {
+    "id": "1859786440",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766149610000,
+    "title": "Find All People With Secret",
+    "titleSlug": "find-all-people-with-secret"
+  },
+  {
+    "id": "1858960751",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1766065878000,
+    "title": "Best Time to Buy and Sell Stock using Strategy",
+    "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy"
+  },
+  {
+    "id": "1858079897",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765979380000,
+    "title": "Best Time to Buy and Sell Stock V",
+    "titleSlug": "best-time-to-buy-and-sell-stock-v"
+  },
+  {
+    "id": "1856775951",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765857388000,
+    "title": "Maximum Profit from Trading Stocks with Discounts",
+    "titleSlug": "maximum-profit-from-trading-stocks-with-discounts"
+  },
+  {
+    "id": "1856242072",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765804212000,
+    "title": "Number of Smooth Descent Periods of a Stock",
+    "titleSlug": "number-of-smooth-descent-periods-of-a-stock"
+  },
+  {
+    "id": "1855238067",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765703131000,
+    "title": "Number of Ways to Divide a Long Corridor",
+    "titleSlug": "number-of-ways-to-divide-a-long-corridor"
+  },
+  {
+    "id": "1855237048",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765703029000,
+    "title": "Number of Ways to Divide a Long Corridor",
+    "titleSlug": "number-of-ways-to-divide-a-long-corridor"
+  },
+  {
+    "id": "1854439174",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765623844000,
+    "title": "Coupon Code Validator",
+    "titleSlug": "coupon-code-validator"
+  },
+  {
+    "id": "1854035096",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765570479000,
+    "title": "Count Mentions Per User",
+    "titleSlug": "count-mentions-per-user"
+  },
+  {
+    "id": "1852562492",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765428460000,
+    "title": "Count Covered Buildings",
+    "titleSlug": "count-covered-buildings"
+  },
+  {
+    "id": "1852054491",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765374814000,
+    "title": "Count the Number of Computer Unlocking Permutations",
+    "titleSlug": "count-the-number-of-computer-unlocking-permutations"
+  },
+  {
+    "id": "1850986137",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765275735000,
+    "title": "Count Special Triplets",
+    "titleSlug": "count-special-triplets"
+  },
+  {
+    "id": "1849946684",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765180825000,
+    "title": "Binary Tree Inorder Traversal",
+    "titleSlug": "binary-tree-inorder-traversal"
+  },
+  {
+    "id": "1849939195",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765180141000,
+    "title": "Count Square Sum Triples",
+    "titleSlug": "count-square-sum-triples"
+  },
+  {
+    "id": "1849089484",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765094001000,
+    "title": "Count Odd Numbers in an Interval Range",
+    "titleSlug": "count-odd-numbers-in-an-interval-range"
+  },
+  {
+    "id": "1848545875",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1765038782000,
+    "title": "Count Partitions With Max-Min Difference at Most K",
+    "titleSlug": "count-partitions-with-max-min-difference-at-most-k"
+  },
+  {
+    "id": "1847784689",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764954542000,
+    "title": "Maximum Count of Positive Integer and Negative Integer",
+    "titleSlug": "maximum-count-of-positive-integer-and-negative-integer"
+  },
+  {
+    "id": "1847778223",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764954029000,
+    "title": "Count Partitions with Even Sum Difference",
+    "titleSlug": "count-partitions-with-even-sum-difference"
+  },
+  {
+    "id": "1846790228",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764854597000,
+    "title": "Plus One",
+    "titleSlug": "plus-one"
+  },
+  {
+    "id": "1846789002",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764854465000,
+    "title": "Plus One",
+    "titleSlug": "plus-one"
+  },
+  {
+    "id": "1846466313",
+    "lang": "pythondata",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764824483000,
+    "title": "Employees Earning More Than Their Managers",
+    "titleSlug": "employees-earning-more-than-their-managers"
+  },
+  {
+    "id": "1846462880",
+    "lang": "mysql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764824176000,
+    "title": "Employees Earning More Than Their Managers",
+    "titleSlug": "employees-earning-more-than-their-managers"
+  },
+  {
+    "id": "1846461203",
+    "lang": "postgresql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764824028000,
+    "title": "Employees Earning More Than Their Managers",
+    "titleSlug": "employees-earning-more-than-their-managers"
+  },
+  {
+    "id": "1846447784",
+    "lang": "pythondata",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764822855000,
+    "title": "Combine Two Tables",
+    "titleSlug": "combine-two-tables"
+  },
+  {
+    "id": "1846447042",
+    "lang": "pythondata",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764822791000,
+    "title": "Combine Two Tables",
+    "titleSlug": "combine-two-tables"
+  },
+  {
+    "id": "1846444623",
+    "lang": "postgresql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764822560000,
+    "title": "Combine Two Tables",
+    "titleSlug": "combine-two-tables"
+  },
+  {
+    "id": "1846442422",
+    "lang": "mysql",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764822350000,
+    "title": "Combine Two Tables",
+    "titleSlug": "combine-two-tables"
+  },
+  {
+    "id": "1846434660",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764821614000,
+    "title": "Count Collisions on a Road",
+    "titleSlug": "count-collisions-on-a-road"
+  },
+  {
+    "id": "1846133604",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764783387000,
+    "title": "Exclusive Time of Functions",
+    "titleSlug": "exclusive-time-of-functions"
+  },
+  {
+    "id": "1846110884",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764781991000,
+    "title": "Exclusive Time of Functions",
+    "titleSlug": "exclusive-time-of-functions"
+  },
+  {
+    "id": "1846107849",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764781814000,
+    "title": "Exclusive Time of Functions",
+    "titleSlug": "exclusive-time-of-functions"
+  },
+  {
+    "id": "1845787312",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764754725000,
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation"
+  },
+  {
+    "id": "1845787116",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764754705000,
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation"
+  },
+  {
+    "id": "1845766925",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764752825000,
+    "title": "Build an Array With Stack Operations",
+    "titleSlug": "build-an-array-with-stack-operations"
+  },
+  {
+    "id": "1845665831",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764743626000,
+    "title": "Count Number of Trapezoids II",
+    "titleSlug": "count-number-of-trapezoids-ii"
+  },
+  {
+    "id": "1845279541",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764698477000,
+    "title": "Find All Numbers Disappeared in an Array",
+    "titleSlug": "find-all-numbers-disappeared-in-an-array"
+  },
+  {
+    "id": "1845255329",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764697007000,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "titleSlug": "how-many-numbers-are-smaller-than-the-current-number"
+  },
+  {
+    "id": "1845237900",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764695959000,
+    "title": "Set Mismatch",
+    "titleSlug": "set-mismatch"
+  },
+  {
+    "id": "1845221680",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764694996000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1845212958",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764694479000,
+    "title": "Add Two Numbers",
+    "titleSlug": "add-two-numbers"
+  },
+  {
+    "id": "1845204246",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764693969000,
+    "title": "Add Two Numbers",
+    "titleSlug": "add-two-numbers"
+  },
+  {
+    "id": "1845176751",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764692268000,
+    "title": "Count Number of Trapezoids I",
+    "titleSlug": "count-number-of-trapezoids-i"
+  },
+  {
+    "id": "1844985554",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764677180000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "1844371366",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764611358000,
+    "title": "Max Consecutive Ones",
+    "titleSlug": "max-consecutive-ones"
+  },
+  {
+    "id": "1844348201",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764609891000,
+    "title": "Shuffle the Array",
+    "titleSlug": "shuffle-the-array"
+  },
+  {
+    "id": "1844319722",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764608118000,
+    "title": "Concatenation of Array",
+    "titleSlug": "concatenation-of-array"
+  },
+  {
+    "id": "1844311137",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1764607585000,
+    "title": "Maximum Running Time of N Computers",
+    "titleSlug": "maximum-running-time-of-n-computers"
+  },
+  {
+    "id": "2053782048",
+    "title": "Length of Last Word",
+    "titleSlug": "length-of-last-word",
+    "timestamp": 1783011331000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053775834",
+    "title": "Length of Last Word",
+    "titleSlug": "length-of-last-word",
+    "timestamp": 1783011025000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053758793",
+    "title": "Length of Last Word",
+    "titleSlug": "length-of-last-word",
+    "timestamp": 1783010194000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053755019",
+    "title": "Plus One",
+    "titleSlug": "plus-one",
+    "timestamp": 1783010001000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053746420",
+    "title": "Plus One",
+    "titleSlug": "plus-one",
+    "timestamp": 1783009577000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053617025",
+    "title": "Search Insert Position",
+    "titleSlug": "search-insert-position",
+    "timestamp": 1783002399000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053590045",
+    "title": "Search Insert Position",
+    "titleSlug": "search-insert-position",
+    "timestamp": 1783000787000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053586444",
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array",
+    "timestamp": 1783000569000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053585955",
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array",
+    "timestamp": 1783000540000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  }
+]
